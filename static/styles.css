@@ -1,0 +1,38 @@
+/*
+Change the background color of all of the form input boxes and 
+submit button to be yellow (can you do this for all input boxes 
+without having to stylize each one independently?)
+Change the text in the last name field to be bold.
+Draw a border around the instruction box.
+*/
+/*<! doctype html>
+<html>
+<head>
+<style>*/
+
+body {
+    background-color: #4AE8B3;
+    font-family: futura;
+    color: white;
+}
+
+input {
+	background-color: yellow;
+}
+
+h1 {
+	color: red;
+}
+
+
+.application-form {
+	color: blue;
+}
+
+#salary-requirement:{
+	color: green;
+}
+
+
+/*</body>*/
+/* Your styles can go here. */
